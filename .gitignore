@@ -1,0 +1,18 @@
+# ACLED data (not redistributed here; see README for how to export it)
+acled*.csv
+*.csv
+*.xlsx
+
+# Downloaded border files
+*.geojson
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
