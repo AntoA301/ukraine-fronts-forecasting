@@ -4,3 +4,9 @@ matplotlib
 scikit-learn>=1.4
 geopandas
 packaging
+# Assignment 2
+causalml>=0.18
+dowhy>=0.14
+xgboost
+lightgbm
+networkx
